@@ -21,6 +21,14 @@ Runner.instance_.gameOver=() => { }
    ```sh
    n latest
    ```
+## Yarn package manager operation
+1. Install yarn
+   ```sh
+   npm install -g yarn
+   ```
+2. Update yarn
+   ```sh
+   yarn set version latest
 
 ### *Node* Random Bytes Generator Code
 Type `node` on the *terminal* then *paste* following code
