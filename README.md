@@ -1,2 +1,5 @@
-# my-blogs
-Initial tooling approaches of my react project
+### *Chrome Dino* unlimited life
+Paste following code on *browser console*
+```bash
+Runner.instance_.gameOver=() => { }
+```
