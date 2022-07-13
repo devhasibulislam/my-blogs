@@ -21,7 +21,7 @@ Runner.instance_.gameOver=() => { }
    ```sh
    n latest
    ```
-## Yarn package manager operation
+# Yarn package manager operation
 1. Install yarn
    ```sh
    npm install -g yarn
@@ -30,7 +30,7 @@ Runner.instance_.gameOver=() => { }
    ```sh
    yarn set version latest
 
-### *Node* Random Bytes Generator Code
+# *Node* Random Bytes Generator Code
 Type `node` on the *terminal* then *paste* following code
 ```bash
 require('crypto').randomBytes(64).toString('hex')
